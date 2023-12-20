@@ -1,2 +1,4 @@
 test add remote git
 configg mat thopi
+config test
+
