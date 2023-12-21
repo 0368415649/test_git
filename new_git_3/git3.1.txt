@@ -1,1 +1,1 @@
-test add remote git
+test add remote git, test merger
