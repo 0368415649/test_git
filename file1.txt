@@ -1,3 +1,3 @@
 commit 1
-commit 2
+commit 2 fix bug lỗi giao diện
 commit 3 không có lỗi
