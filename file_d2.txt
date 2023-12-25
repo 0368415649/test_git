@@ -1,1 +1,2 @@
 commit lần 1 của d2 nè
+commit lần 2 của d2 nè
